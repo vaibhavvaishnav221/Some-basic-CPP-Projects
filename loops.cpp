@@ -13,6 +13,6 @@ int main()
 
     for (int i = 1; i < y + 1; i++)
     {
-        cout << x * i << "\n";
+        cout << x << " x " << y << " = " << x * i << "\n";
     }
 }
