@@ -13,6 +13,6 @@ int main ()
     if ( x >= 71 and x <= 80) cout << "B" << endl;
     if ( x >= 61 and x <= 70) cout << "C" << endl;
     if ( x >= 51 and x <= 60) cout << "D" << endl;
-    if ( x >= 50 and x <= 00) cout << "E" << endl;
+    if ( x >= 00 and x <= 50) cout << "E" << endl;
 
 }
