@@ -3,7 +3,7 @@ using namespace std;
 
 int main ()
 {
-    float const π = 3.14159265;
+    float const π = 3.14159265;                    // const keyword is used so that value of π doesn't get changed.
     float r ;
     cout << " Enter the radius : ";
     cin >> r;
