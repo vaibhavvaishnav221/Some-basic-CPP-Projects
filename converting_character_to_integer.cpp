@@ -5,5 +5,5 @@ int main()
 {
     char ch = 'A';
     
-    cout << int(ch);
+    cout << int(ch) << endl;
 }
