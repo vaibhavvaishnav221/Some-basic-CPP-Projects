@@ -32,3 +32,4 @@ In this Git Repo, I have added some very basic CPP Projects
 ![Calculating the Area and Volume of Cylinder](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(102).png "Calculating the Area and Volume of Cylinder")
 16. [Checking the divivsibility by Both 2 and 3](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/checking_the_divisibility_by_both_2_and_3.cpp "Checking the divivsibility by Both 2 and 3"):- We have written a program here to check the divisibility of a number by both 2 and3.
 ![Checking the divivsibility by Both 2 and 3](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(103).png "Checking the divivsibility by Both 2 and 3")
+17. [Converting Character to Integer](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/converting_character_to_integer.cpp "Converting Character to Integer")
