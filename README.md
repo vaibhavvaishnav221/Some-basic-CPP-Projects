@@ -36,3 +36,5 @@ In this Git Repo, I have added some very basic CPP Projects
 ![Converting Character to Integer"](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(104).png "Converting Character to Integer")
 18. [Converting Integer to Character](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/converting_integer_to_character.cpp "Converting Integer to Character"):- We have converted int data type to Character data type in this code.
 ![Converting Integer to Character](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(105).png "Converting Integer to Character")
+19. [Profit/Loss Calculator](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/profit_loss_calculator.cpp "Profit/Loss Calculator"):- We have written a code to calculate the profit/loss made on each sale.
+![Profit/Loss Calculator](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(107).png "Profit/Loss Calculator")
