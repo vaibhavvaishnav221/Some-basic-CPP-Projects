@@ -8,7 +8,7 @@ int main()
     cin >> sp;
 
     int cp;
-    cout << "Enter Cost Price";
+    cout << "Enter Cost Price: ";
     cin >> cp;
 
     if (cp > sp)
