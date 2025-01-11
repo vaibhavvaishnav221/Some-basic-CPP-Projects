@@ -38,3 +38,5 @@ In this Git Repo, I have added some very basic CPP Projects
 ![Converting Integer to Character](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(105).png "Converting Integer to Character")
 19. [Profit/Loss Calculator](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/profit_loss_calculator.cpp "Profit/Loss Calculator"):- We have written a code to calculate the profit/loss made on each sale.
 ![Profit/Loss Calculator](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(107).png "Profit/Loss Calculator")
+20. [Checking Three Digit Number](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/checking_three_digit_number.cpp "Checking Three Digit Number"):- We have written a code to check whether the input number is three digit or not.
+![Checking Three Digit Number](https://github.com/vaibhavvaishnav221/Some-basic-CPP-Projects/blob/main/Screenshot%20(108).png "Checking Three Digit Number")
