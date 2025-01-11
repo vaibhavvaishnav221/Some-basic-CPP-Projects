@@ -15,7 +15,7 @@ int main()
     {
         cout << "Loss: " << cp - sp << endl;
     }
-    else if (cp = sp)
+    else if (cp == sp)
     {
         cout << "No Profit/Loss" << endl;
     }
